@@ -1,0 +1,46 @@
+.item.completed {
+   
+   text-decoration: line-through;
+   background: black;
+   color: white;
+   width: 12%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+
+}
+
+.item{
+   background: blueviolet;
+   color: white;
+   width: 12%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+   
+}
+
+button {
+   background: black;
+   color: white;
+   border-radius: 30px;
+   height: 25px;
+   width: 10%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+   
+   
+}
+
+input {
+   font-size: 15px;
+   color: blueviolet;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+h2{
+   text-align: center;
+}
